@@ -4,10 +4,6 @@
 - [Optimizing pytest runtime](https://ggupta2005.hashnode.dev/optimizing-test-runtime-using-pytest)
 - [Different ways of getting python version](https://ggupta2005.hashnode.dev/different-ways-of-getting-local-python-version)
 
-I am also the maintainer of the following open projects:-
-- [data.understand](https://github.com/ggupta2005/data.understand)
-- [flake8-all-not-strings](https://github.com/ggupta2005/flake8-all-not-strings)
-
 <!--
 **ggupta2005/ggupta2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
