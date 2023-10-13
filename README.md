@@ -9,6 +9,9 @@
 ## CI/CD
 - [Bootstrap Github workflows for your python project](https://ggupta2005.hashnode.dev/bootstrap-github-workflows-for-your-python-project)
 
+## Interviews
+- [Hiring right candidates in software engineering roles](https://ggupta2005.hashnode.dev/hiring-right-candidates-in-software-engineering-roles)
+
 <!--
 **ggupta2005/ggupta2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
