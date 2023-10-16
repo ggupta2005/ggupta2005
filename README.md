@@ -11,6 +11,7 @@
 
 ## Interviews
 - [Hiring right candidates in software engineering roles](https://ggupta2005.hashnode.dev/hiring-right-candidates-in-software-engineering-roles)
+- [Interviewee Experiences: What to do and what not to do?](https://ggupta2005.hashnode.dev/interviewee-experiences-what-to-do-and-what-not-to-do)
 
 <!--
 **ggupta2005/ggupta2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
