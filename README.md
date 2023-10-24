@@ -14,6 +14,9 @@
 - [Interviewee Experiences: What to do and what not to do?](https://ggupta2005.hashnode.dev/interviewee-experiences-what-to-do-and-what-not-to-do)
 - [Interviewer Experiences: What to do and what not to do?](https://ggupta2005.hashnode.dev/interviewer-experiences-what-to-do-and-what-not-to-do)
 
+## Navigating software engineering career
+- [Code review: Best practices for code submitters](https://ggupta2005.hashnode.dev/code-review-best-practices-for-code-submitters)
+
 <!--
 **ggupta2005/ggupta2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
