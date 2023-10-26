@@ -8,6 +8,7 @@
 
 ## CI/CD
 - [Bootstrap Github workflows for your python project](https://ggupta2005.hashnode.dev/bootstrap-github-workflows-for-your-python-project)
+- [Github status badges for Python projects](https://ggupta2005.hashnode.dev/github-status-badges-for-python-projects)
 
 ## Interviews
 - [Hiring right candidates in software engineering roles](https://ggupta2005.hashnode.dev/hiring-right-candidates-in-software-engineering-roles)
