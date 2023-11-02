@@ -18,6 +18,9 @@
 ## Navigating software engineering career
 - [Code review: Best practices for code submitters](https://ggupta2005.hashnode.dev/code-review-best-practices-for-code-submitters)
 
+## Software Design
+- [Knowing the data in designing software systems](https://ggupta2005.hashnode.dev/knowing-the-data-in-designing-software-systems)
+
 <!--
 **ggupta2005/ggupta2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
