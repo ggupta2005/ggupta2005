@@ -18,6 +18,7 @@
 - [Knowing the data in designing software systems](https://ggupta2005.hashnode.dev/knowing-the-data-in-designing-software-systems)
 - [Software from the prespective of the users](https://ggupta2005.hashnode.dev/software-from-the-prespective-of-the-users)
 - [Writing robust test cases](https://ggupta2005.hashnode.dev/writing-robust-test-cases)
+- [What are DTOs in software systems?](https://ggupta2005.hashnode.dev/what-are-dtos-in-software-systems)
 
 ## Interviews
 - [Hiring right candidates in software engineering roles](https://ggupta2005.hashnode.dev/hiring-right-candidates-in-software-engineering-roles)
